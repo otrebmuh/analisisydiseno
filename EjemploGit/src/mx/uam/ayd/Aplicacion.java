@@ -9,7 +9,7 @@ public class Aplicacion {
 	}
 	
 	public void inicia() {
-		System.out.println("Hola");
+		System.out.println("Hola, esta es la versión 2.0");
 	}
 
 }
