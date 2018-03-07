@@ -1,5 +1,6 @@
 package mx.uam.ayd;
 
+/* Comentario sobre la rama */
 public class Aplicacion {
 
 	public static void main(String[] args) {
